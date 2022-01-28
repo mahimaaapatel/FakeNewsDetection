@@ -1,6 +1,5 @@
 # FakeNewsDetection
 
-#Introduction
 Fake news which can be broadly defined as false or misleading information is asserted to have serious consequences on society. This can lead to instabilities in the country of varying magnitude, ranging from fear mongering to massive protests with serious economic and social consequences.
 
 Our team has come up with a real time fake news detection system that uses pyspark for data processing and a machine learning algorithm  to predict whether the news is likely to be fake or real.
